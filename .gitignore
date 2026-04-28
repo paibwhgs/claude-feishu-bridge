@@ -1,0 +1,4 @@
+config.js
+.sessions.json
+.seen-messages.json
+node_modules/
